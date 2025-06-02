@@ -17,7 +17,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 
 API_ID = 20562331
 API_HASH = "9e3e4148e73756a85b95fc69980b678d"
-BOT_TOKEN = "7747789129:AAE3GzT9xBN45cjF93gzoSOf_MpAIysG75E"
+BOT_TOKEN = ""
 DEVS = [8181956369, 6950261247]
 BOT_USERNAME = "thefusebot" # change your bot username without @
 
