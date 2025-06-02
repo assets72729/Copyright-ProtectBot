@@ -15,11 +15,11 @@ import traceback
 from apscheduler.schedulers.background import BackgroundScheduler
 
 
-API_ID = 29593257
-API_HASH = "e9a3897c961f8dce2a0a88ab8d3dd843"
-BOT_TOKEN = "7370306201:AAGoUHzBkSSQYyEbEzIKMNNksAMD81EbObc"
-DEVS = [5690711835, 6312693124]
-BOT_USERNAME = "BOT" # change your bot username without @
+API_ID = 20562331
+API_HASH = "9e3e4148e73756a85b95fc69980b678d"
+BOT_TOKEN = ""
+DEVS = [8181956369, 6950261247]
+BOT_USERNAME = "thefusebot" # change your bot username without @
 
 ALL_GROUPS = []
 TOTAL_USERS = []
